@@ -6,7 +6,8 @@ require_once 'SimpleLODI.php';
 // デバッグフラグ
 define("DEBUG", false);
 
-$path = DEBUG?"uedayou.ttl":$_GET["path"];
+#$path = DEBUG?"uedayou.ttl":$_GET["path"];
+$path = DEBUG?"uedayou.ttl":$_SERVER['REQUEST_URI'];
 $path = urldecode($path);
 $url = DEBUG?"http://uedayou.net/simplelodi/uedayou":(empty($_SERVER["HTTPS"])?"http://":"https://").$_SERVER["HTTP_HOST"].$_SERVER["REQUEST_URI"];
 $acceptHeader = DEBUG?"application/turtle":$_SERVER['HTTP_ACCEPT'];
@@ -46,7 +47,6 @@ $options = array(
     "DATA_EXTENSION"=>".ttl",
 );
 */
-
 // SPARQLは現在未サポートです。
 // RDFストアにVirtuoso を使う場合は必ず、USE_VIRTUOSO を true にしてください。
 /*
