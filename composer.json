@@ -2,6 +2,9 @@
   "require": {
     "php": "^7.3.0",
     "ext-mbstring": "*",
-    "ml/json-ld": "^1.2"
+    "ml/json-ld": "^1.2",
+    "easyrdf/easyrdf": "^1.1",
+    "willdurand/negotiation": "^3.0",
+    "twig/twig": "^3.1"
   } 
 }
