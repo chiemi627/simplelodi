@@ -1,6 +1,7 @@
 language: php
 
 php:
+<<<<<<< HEAD
   - 7.0
   - 7.1
   - 7.2
@@ -18,6 +19,23 @@ matrix:
       dist: trusty
     - php: 5.6
       dist: trusty
+=======
+  - 5.4
+  - 5.5
+  - 5.6
+  - 7.0
+  - 7.1
+  - 7.2
+  - hhvm
+
+matrix:
+  fast_finish: true
+  allow_failures:
+    - php: hhvm
+  include:
+    - php: 5.3
+      dist: precise
+>>>>>>> v2.0.0-dev
 
 before_script:
   - composer install

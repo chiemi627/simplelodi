@@ -2,6 +2,7 @@
 
 "Simple LODI” is a PHP program which can convert RDF data to various formats. It contributes to make Linked Data.
 
+<<<<<<< HEAD
 ### The development version(v2.0.0-dev) is available now.
 
 It has below features:
@@ -11,6 +12,16 @@ It has below features:
 
 You can try it in [v2.0.0-dev](https://github.com/uedayou/simplelodi/tree/v2.0.0-dev) branch.
 <https://github.com/uedayou/simplelodi/tree/v2.0.0-dev>
+=======
+### Notice: This branch is development version(v2.0.0-dev).
+It has below features:
+- Change HTML rendering to single page application by React.
+- Change CSS library from Bootstrap to Material-UI.
+- Update RDF libraries.
+
+Demo site is here:
+<http://uedayou.net/simplelodi-v2/uedayou>
+>>>>>>> v2.0.0-dev
 
 ## Input file extensions
 

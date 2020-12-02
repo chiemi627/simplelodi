@@ -77,7 +77,11 @@ class FileGetContentsLoader implements DocumentLoaderInterface
                 }
             }
 
+<<<<<<< HEAD
             $linkHeaderValues = $this->parseLinkHeaders($linkHeaderValues, new IRI($url));
+=======
+            $linkHeaderValues = $this->parseContextLinkHeaders($linkHeaderValues, new IRI($url));
+>>>>>>> v2.0.0-dev
 
             $contextLinkHeaders = array_filter($linkHeaderValues, function ($link) {
                 return (isset($link['rel'])
@@ -153,7 +157,11 @@ class FileGetContentsLoader implements DocumentLoaderInterface
      *
      * @internal Do not use this method directly, it's only temporarily accessible for testing.
      */
+<<<<<<< HEAD
     public function parseLinkHeaders(array $values, IRI $baseIri)
+=======
+    private function parseContextLinkHeaders(array $values, IRI $baseIri)
+>>>>>>> v2.0.0-dev
     {
         // Separate multiple links contained in a single header value
         for ($i = 0, $total = count($values); $i < $total; $i++) {

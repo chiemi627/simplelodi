@@ -3,10 +3,22 @@
 コンテントネゴシエーションや拡張子変更により、RDFファイルをさまざまなフォーマットで出力ができるLODフロントエンドプログラムです。
 対応する入力フォーマットは、RDF/XML(拡張子：xml)、N-Triples(拡張子:nt)、Turtle(拡張子:ttl)です。
 
+<<<<<<< HEAD
 ### バージョン2の開発版を現在公開中です。
 
 [v2.0.0-dev](https://github.com/uedayou/simplelodi/tree/v2.0.0-dev)で公開中です。是非お試しください。
 <https://github.com/uedayou/simplelodi/tree/v2.0.0-dev>
+=======
+### 注意：このブランチは開発中です(v2.0.0-dev).
+現master(v1.0)から以下を変更しています:
+- HTMLの描画をサーバサイドレンダリング(SSR)からシングルページアプリケーション(SPA)に変更しました
+- SPAはReactで記述しています
+- UI部分を Bootstrap から Material-UI に変更しました
+- RDFのライブラリのバージョンを更新しました
+
+v2.0.0-devのデモサイトは以下になります。
+<http://uedayou.net/simplelodi-v2/uedayou>
+>>>>>>> v2.0.0-dev
 
 ## 対応出力フォーマット(拡張子)
 
