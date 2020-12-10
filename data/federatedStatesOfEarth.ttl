@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+
+<http://mahirumatic.herokuapp.com/federatedStatesOfEarth>
+   a org:formalOrganization ;
+   sc:name "地球連邦" ;
+   sc:description "地球を中心とする数多くの国が集まってできた連邦" .
+
