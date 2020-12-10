@@ -5,4 +5,4 @@
 <http://mahirumatic.herokuapp.com/westworld>
    a sc:location ;
    sc:name "西世界" ;
-   sc:description "西世界とはこれこれこういう世界である。" .
+   sc:description "旧世界から見て新世界と反対側にある世界" .
