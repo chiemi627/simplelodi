@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/NewWorld.ttl>
+   a sc:location ;
+   sc:name "新世界" ;
+   sc:description "一般的なワープマップの中央世界の右半分に位置　半分くらいがマヒルティックで、宇宙連合本部、かなた星なども存在" .

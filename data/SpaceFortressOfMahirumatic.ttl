@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/SpaceFortressOfMahirumatic.ttl>
+   a sc:location ;
+   sc:name "マヒルマティック宇宙要塞" ;
+   sc:description "マヒルティック帝国最大の宇宙要塞で世界管理装置を内部に建設しようとしていた" .
