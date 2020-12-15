@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/SuperLargeCannon.ttl>
+   a sc:location ;
+   sc:name "超大型砲" ;
+   sc:description "宇宙空間に浮かぶ大型の砲　大量破壊兵器に分類される" .

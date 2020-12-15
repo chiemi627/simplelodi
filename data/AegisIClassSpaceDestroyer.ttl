@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/AegisIClassSpaceDestroyer.ttl>
+   a sc:location ;
+   sc:name "イージスI級宇宙駆逐艦" ;
+   sc:description "東宇宙連邦の象徴的な宇宙船で防御が高い　小型宇宙船に強力な特徴がある" .
