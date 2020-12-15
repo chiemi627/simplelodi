@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/WorldManagementDevice.ttl>
+   a sc:location ;
+   sc:name "世界管理装置" ;
+   sc:description "マヒルティック帝国が世界を強制的に管理するために作ろうとした装置　しかし東宇宙連邦などの妨害に合いなかなか建設が進まず、最終的には失敗した" .
