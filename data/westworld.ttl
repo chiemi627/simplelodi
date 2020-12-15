@@ -5,4 +5,4 @@
 <http://mahirumatic.herokuapp.com/westworld>
    a sc:location ;
    sc:name "西世界" ;
-   sc:description "旧世界から見て新世界と反対側にある世界" .
+   sc:description "旧世界から見て新世界と反対側にある世界　色々な宗教が力を持っている傾向がある" .
