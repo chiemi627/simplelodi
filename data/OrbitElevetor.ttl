@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/OrbitElevetor.ttl>
+   a sc:location ;
+   sc:name "軌道エレベータ" ;
+   sc:description "星の中と宇宙空間を行き来するためのエレベーター　宇宙鉄道の列車が運べるものもある" .

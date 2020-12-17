@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/ConcentratorPhotovoltaics.ttl>
+   a sc:location ;
+   sc:name "太陽光集光発電" ;
+   sc:description "恒星の光を集めて熱を作り出し発電するもの　太陽光という名前になっているのは最初に出来たところが太陽系だったため" .

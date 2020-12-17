@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+
+<http://mahirumatic.herokuapp.com/KanataGoastLightStarWarpRoute.ttl>
+   a org:formalOrganization ;
+   sc:name "かなたおばけ光の星ワープルート" ;
+   sc:description "新世界と東世界を結ぶルート　他のルートは一つしか無い" .
+
