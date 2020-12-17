@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+
+<http://mahirumatic.herokuapp.com/GalaxyStar.ttl>
+   a org:formalOrganization ;
+   sc:name "銀河星" ;
+   sc:description "宇宙連合本部がある星　宇宙連合直轄" .
