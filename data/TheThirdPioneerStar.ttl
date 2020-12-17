@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/TheThirdPioneerStar.ttl>
+   a sc:location ;
+   sc:name "第３開拓星" ;
+   sc:description "主人公の星　最近になってから東宇宙連邦の首都になった" .

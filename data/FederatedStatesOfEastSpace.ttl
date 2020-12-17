@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+
+<http://mahirumatic.herokuapp.com/FederatedStatesOfEastSpace.ttl>
+   a org:formalOrganization ;
+   sc:name "東宇宙連邦" ;
+   sc:description "旧世界、新世界に馴染めなかった者が遥か彼方に引っ越して作った国々の集まり　影の薄い主人公国家である" .
