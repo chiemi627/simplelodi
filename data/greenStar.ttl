@@ -3,7 +3,7 @@
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 
-<http://mahirumatic.herokuapp.com/greenStar>
+<http://mahirumatic.herokuapp.com/greenStar.ttl>
    a org:formalOrganization ;
    sc:name "緑の星" ;
    sc:description "太陽系以外で初めてテラフォーミングを行ったとされる星" .

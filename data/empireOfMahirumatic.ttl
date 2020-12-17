@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/empireOfMahirumatic>
+<http://mahirumatic.herokuapp.com/empireOfMahirumatic.ttl>
    a sc:Country ;
    sc:name "マヒルティック帝国" ;
    sc:description "宇宙はマヒルティック帝国を中心に回っていると言われるとおり、宇宙を牛耳っているところである。批判する者からは宇宙帝国と呼ばれている" .

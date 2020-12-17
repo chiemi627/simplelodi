@@ -3,7 +3,7 @@
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 
-<http://mahirumatic.herokuapp.com/OldNewWorldWar>
+<http://mahirumatic.herokuapp.com/OldNewWorldWar.ttl>
    sc:name "旧・新世界大戦" ;
    sc:description "まだ東宇宙に人類が進出していなかった大昔にあった大戦　この大戦で負けた者の一部が東宇宙の開拓者となった" .
 

@@ -5,7 +5,7 @@
 @prefix org: <http://www.w3.org/ns/org#> .
 @prefix dbpedia: http://dbpedia.org/ontology/Territory>
 
-<http://mahirumatic.herokuapp.com/federatedStatesOfEarth>
+<http://mahirumatic.herokuapp.com/federatedStatesOfEarth.ttl>
    a org:formalOrganization ;
    sc:name "地球連邦" ;
    sc:description "地球を中心とする数多くの国が集まってできた連邦" ;

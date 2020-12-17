@@ -3,7 +3,7 @@
 @prefix sc: <http://schema.org/> .
 @prefix dbp: <http://dbpedia.org/ontology> .
 
-<http://mahirumatic.herokuapp.com/rebellionOfMahirumatic>
+<http://mahirumatic.herokuapp.com/rebellionOfMahirumatic.ttl>
    a dbp:army ;
    sc:name "マヒルマティック反乱軍" ;
    dbp:conflict <https://mahirumatic.herokuapp.com/empireOfMahirumatic> ;

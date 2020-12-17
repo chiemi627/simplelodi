@@ -3,7 +3,7 @@
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 
-<http://mahirumatic.herokuapp.com/KanataStar>
+<http://mahirumatic.herokuapp.com/KanataStar.ttl>
    a org:formalOrganization ;
    sc:name "かなた星" ;
    sc:description "中立国の中で軍事力が最も高い国　東世界と新世界を結ぶルートは必ずかなた星近辺を通る" .

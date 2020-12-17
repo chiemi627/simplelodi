@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/elice>
+<http://mahirumatic.herokuapp.com/elice.ttl>
    a sc:location ;
    sc:name "エリス" ;
    sc:description "海王星より外側にある星　ワープゲートが近くにある　宇宙鉄道で太陽系に入る時に初めて目にする星でもある" .
