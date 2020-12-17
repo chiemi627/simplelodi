@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+
+<http://mahirumatic.herokuapp.com/InterStarEmigrationSpaceShip.ttl>
+   a org:formalOrganization ;
+   sc:name "恒星間移住宇宙船" ;
+   sc:description "大昔に恒星間で移住をしていた時代の移動可能なスペースコロニー" .
+
