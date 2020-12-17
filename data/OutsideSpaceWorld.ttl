@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/OutsideSpaceWorld.ttl>
+   a sc:location ;
+   sc:name "外宇宙世界" ;
+   sc:description "奥東世界より更に向こう側の世界　外宇宙生命体が支配していて、人類が開拓を進めていた世界と比べるとはるかに広い場所であるらしい" .
