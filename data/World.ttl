@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/World.ttl>
+   a sc:location ;
+   sc:name "世界" ;
+   sc:description "ワープマップで見た時大陸に例えられる部分　東世界、旧世界が代表的" .

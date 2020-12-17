@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+
+<http://mahirumatic.herokuapp.com/HumanoidCombatRobot.ttl>
+   a org:formalOrganization ;
+   sc:name "東宇宙人型戦闘ロボット" ;
+   sc:description "軍に親しみをもってもらうために作られたという噂がある東宇宙連邦の人形ロボット" .
+
