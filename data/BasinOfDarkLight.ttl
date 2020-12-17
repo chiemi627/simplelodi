@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+
+<http://mahirumatic.herokuapp.com/BasinOfDarkLight.ttl>
+   a org:formalOrganization ;
+   sc:name "本暗光盆地" ;
+   sc:description "第３開拓星を代表する景勝地　寒くて暗い時期が長い" .

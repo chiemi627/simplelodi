@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/Phoenix.ttl>
+   a sc:location ;
+   sc:name "超大型宇宙艦フェニックス" ;
+   sc:description "横幅が25km近くももある東宇宙連邦大型戦闘用宇宙船" .
