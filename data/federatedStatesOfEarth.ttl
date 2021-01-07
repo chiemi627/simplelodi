@@ -4,13 +4,14 @@
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 @prefix dbpedia: http://dbpedia.org/ontology/Territory>
+@prefix mh: <https://mahirumatic.herokuapp.com>
 
 <http://mahirumatic.herokuapp.com/FederatedStatesOfEarth.ttl>
    a org:formalOrganization ;
    sc:name "地球連邦" ;
    sc:description "地球を中心とする数多くの国が集まってできた連邦" ;
-   dc:spatial dbpedia:Earth ;
-   dc:spatial dbpedia:Vinus ;
-   dc:spatial dbpedia:Moon ;
-   dc:spatial dbpedia:Saturn ;
-   dc:spatial dbpedia:Sun .
+   mh:possess mh:Earth ;
+   mh:possess mh:Vinus ;
+   mh:possess mh:Moon ;
+   mh:possess mh:Saturn ;
+   mh:possess mh:Sun .

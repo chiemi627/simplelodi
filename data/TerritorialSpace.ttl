@@ -1,0 +1,8 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sc: <http://schema.org/> .
+
+<http://mahirumatic.herokuapp.com/TerritorialSpace.ttl>
+   a rdf:Property ;
+   sc:name "領域" ;
+   sc:description "領土または領海を宇宙レベルで拡張したもの" .
