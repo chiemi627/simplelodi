@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/sun.ttl>
+<http://mahirumatic.herokuapp.com/Sun.ttl>
    a sc:location ;
    sc:name "太陽" ;
    sc:description "太陽系の主星" .

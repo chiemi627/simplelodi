@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/earth.ttl>
+<http://mahirumatic.herokuapp.com/Earth.ttl>
    a sc:location ;
    sc:name "地球" ;
    sc:description "人類が生まれた星　地球連邦の首都があり、地球至上主義の中心地でもある" .

@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/venus.ttl>
+<http://mahirumatic.herokuapp.com/Venus.ttl>
    a sc:location ;
    sc:name "金星" ;
    sc:description "地球連邦の中で２番目に人口が多い緑に染まった星" .

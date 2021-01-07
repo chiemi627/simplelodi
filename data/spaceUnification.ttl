@@ -3,7 +3,7 @@
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 
-<http://mahirumatic.herokuapp.com/spaceUnification.ttl>
+<http://mahirumatic.herokuapp.com/SpaceUnification.ttl>
    sc:name "宇宙統一" ;
    sc:description "宇宙を一つの国の勢力下に置くこと　マヒルティック帝国がやろうとしていたとでっちあげられていた" .
 

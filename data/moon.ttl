@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/moon.ttl>
+<http://mahirumatic.herokuapp.com/Moon.ttl>
    a sc:location ;
    sc:name "月" ;
    sc:description "月面の大半の国家は地球連邦に一応加盟しながらも地球連邦に反抗的なところが多い" .

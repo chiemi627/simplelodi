@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/earthSupremacy.ttl>
+<http://mahirumatic.herokuapp.com/EarthSupremacy.ttl>
    a sc:location ;
    sc:name "地球至上主義" ;
    sc:description "全ての人類の星の中で一番地球が偉く、他のところは全部植民地だから、地球の政府に他のところが従うべきだという考え" .

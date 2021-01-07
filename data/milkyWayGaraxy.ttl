@@ -3,7 +3,7 @@
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 
-<http://mahirumatic.herokuapp.com/milkyWayGaraxy.ttl>
+<http://mahirumatic.herokuapp.com/MilkyWayGaraxy.ttl>
    sc:name "天の川銀河" ;
    sc:description "地球のある銀河" .
 

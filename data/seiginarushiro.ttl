@@ -2,7 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 
-<http://mahirumatic.herokuapp.com/seiginerushiro.ttl>
+<http://mahirumatic.herokuapp.com/Seiginerushiro.ttl>
    a sc:location ;
    sc:name "正義根留城" ;
    sc:description "地球にあるもの　詳しいことはあまり分かっていない" .
