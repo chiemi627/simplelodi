@@ -2,9 +2,12 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
+@prefix mh: <https://mahirumatic.herokuapp.com> .
 
 <http://mahirumatic.herokuapp.com/OldWorld.tll>
 ederatedStatesOfEarth.ttl>
+   mh:type mh:World ;
    sc:name "旧世界" ;
-   sc:description "一般的なワープマップの中央世界の左半分に位置　マヒルティックと地球連邦の２つで過半数を越える" .
-
+   sc:description "一般的なワープマップの中央世界の左半分に位置　マヒルティックと地球連邦の２つで過半数を越える" ；
+   mh:includes mh:SolarSystem ;
+   mh:includes mh:GreenStar .

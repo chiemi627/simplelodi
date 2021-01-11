@@ -3,8 +3,8 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
-@prefix dbpedia: http://dbpedia.org/ontology/Territory>
-@prefix mh: <https://mahirumatic.herokuapp.com>
+@prefix dbpedia: http://dbpedia.org/ontology/Territory> .
+@prefix mh: <https://mahirumatic.herokuapp.com> .
 
 <http://mahirumatic.herokuapp.com/FederatedStatesOfEarth.ttl>
    a org:formalOrganization ;
@@ -14,4 +14,6 @@
    mh:possess mh:Vinus ;
    mh:possess mh:Moon ;
    mh:possess mh:Saturn ;
-   mh:possess mh:Sun .
+   mh:possess mh:Sun ;
+   mh:possess mh:Elice ;
+   mh:ideology mh:EarthSupermacy .
