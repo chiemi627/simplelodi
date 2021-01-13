@@ -2,6 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
+@prefix mh: <https://mahirumatic.herokuapp.com> .
 
 <http://mahirumatic.herokuapp.com/InterStarSpetialCommunicationSystem.ttl>
    a org:formalOrganization ;

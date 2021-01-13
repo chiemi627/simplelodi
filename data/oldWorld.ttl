@@ -3,6 +3,7 @@
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
 @prefix mh: <https://mahirumatic.herokuapp.com> .
+@prefix mh: <https://mahirumatic.herokuapp.com> .
 
 <http://mahirumatic.herokuapp.com/OldWorld.tll>
 ederatedStatesOfEarth.ttl>
