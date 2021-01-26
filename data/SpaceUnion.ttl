@@ -2,10 +2,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sc: <http://schema.org/> .
 @prefix org: <http://www.w3.org/ns/org#> .
-@prefix mh: <https://mahirumatic.herokuapp.com> .
+@prefix mh: <https://mahirumatic.herokuapp.com/> .
 
 <http://mahirumatic.herokuapp.com/SpaceUnion.ttl>
    a org:formalOrganization ;
    sc:name "宇宙連合" ;
-   sc:description "宇宙に対し恒久平和を作り、国際協調関係を作るための組織　東宇宙連邦をテロ組織扱いにしている" .
+   sc "宇宙に対し恒久平和を作り、国際協調関係を作るための組織　東宇宙連邦をテロ組織扱いにしている" .
 
