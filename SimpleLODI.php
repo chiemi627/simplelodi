@@ -89,6 +89,7 @@ class SimpleLODI {
 		if ($path == "/" || substr($path, -1) === "/"||strlen($path)===0) {
 			$path .= "index";
 		}
+		error_log($path);
 		$path_parts = pathinfo($path);
 		$this->dir = $path_parts['dirname']."/";
 		$this->dir = $this->dir=="."?"":$this->dir;
