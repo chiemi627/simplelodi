@@ -86,7 +86,7 @@ class SimpleLODI {
 		setlocale(LC_ALL, 'ja_JP.UTF-8');
 		//setlocale(LC_ALL, 'Japanese_Japan.932');
 		// ディレクトリ指定の場合はファイル名 index をつける 2017.04.20
-		if (substr($path, -1) === "/"||strlen($path)===0) {
+		if ($path == "/" || substr($path, -1) === "/"||strlen($path)===0) {
 			$path .= "index";
 		}
 		$path_parts = pathinfo($path);
